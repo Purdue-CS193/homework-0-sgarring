@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+# Shea Garringer's First CS193 Homework
+
+- It will help me learn things that I can apply in other CS courses
+- It allows me to meet other women in stem
+- It is taught by students that have recently had a similar experience to what we will be going through over the next few years
